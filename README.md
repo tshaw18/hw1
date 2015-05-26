@@ -13,6 +13,20 @@ int doubleInt (int number);
 int add(int sum);
 int ex05_a();
 
+/*
+   Results:
+   EX01: ??? need a PDF
+   EX02: 20/20
+   EX03: 15/20
+         Initialize reply: char reply = '\0';
+         char tab='\t';
+         string empty="";
+   EX04: 18/20
+         int add(int x, int y) { return x+y; }
+   EX05: 10/20
+   
+   TOTAL: 63 + EX01
+*/
 
 int main() {
    
